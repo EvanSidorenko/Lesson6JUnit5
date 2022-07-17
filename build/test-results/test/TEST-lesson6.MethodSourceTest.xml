@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lesson6.MethodSourceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-07-17T17:20:56" hostname="DESKTOP-UTDAB18" time="9.995">
+  <properties/>
+  <testcase name="Тест с проверкой поиска товара: Ручка КиберДеда, ожидаем отображение знака валюты: Брендовая, суперлегкая ручка КиберДеда с автоматическим поворотным механизмом. Цвет чернил синий. Размер 132х8мм." classname="lesson6.MethodSourceTest" time="7.985"/>
+  <testcase name="Тест с проверкой поиска товара: Прозрачная капсула для дедкоина, ожидаем отображение знака валюты: Лучшая защита вашей монеты. Подходит для монет диаметром 40мм." classname="lesson6.MethodSourceTest" time="2.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 61563
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 17, 2022 8:21:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jul 17, 2022 8:21:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 103, so returning the closest version found: 99
+Jul 17, 2022 8:21:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 103 of 99
+]]></system-err>
+</testsuite>
